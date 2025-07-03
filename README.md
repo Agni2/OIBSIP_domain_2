@@ -1,7 +1,7 @@
 # OIBSIP_domain_2
 
 # 🎯 Objective
-This is a simple BMI (Body Mass Index) calculator built using Python. It takes user input for weight and height (in metric units), calculates BMI, and classifies the result according to standard health ranges.
+This is a simple BMI (Body Mass Index) calculator built using Python CLI. It takes user input for weight and height (in metric units), calculates BMI, and classifies the result according to standard health ranges.
 
 # 🛠️ Tools Used
 Python 3.x: Core language used to write the script.
