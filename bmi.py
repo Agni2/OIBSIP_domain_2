@@ -1,4 +1,4 @@
-def get_valid_input(msg, expected_type=float, min_val=0.1, max_val=300):
+def get_valid_input(msg, expected_type=float, min_val=0.1, max_val=300.0):
     while True:
         try:
             user_input = expected_type(input(msg))
